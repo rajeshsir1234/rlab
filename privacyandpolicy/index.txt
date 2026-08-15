@@ -1,0 +1,63 @@
+Privacy Policy
+
+Last Updated: August 15, 2026
+
+This Privacy Policy explains how Flappy Bird Game, made using Scratch, handles user information.
+
+1. No Data Collection
+
+This game does not collect, store, access, or process any personal information from users.
+
+We do not collect:
+
+- Name
+- Email address
+- Phone number
+- Location
+- Photos or videos
+- Contacts
+- Device information
+- Personal files
+- IP address
+- Account information
+- Gameplay data or statistics
+
+2. No Account Required
+
+The game does not require users to create an account, sign in, or provide any personal information to play.
+
+3. No Data Sharing
+
+We do not sell, share, rent, or transfer any personal information to third parties because the game does not collect personal information.
+
+4. No Tracking
+
+This game does not use personal tracking, analytics, advertising trackers, or other technologies to identify or track users.
+
+5. Children's Privacy
+
+The game is a simple entertainment game and does not knowingly collect any personal information from children or anyone else.
+
+6. Third-Party Services
+
+The game itself does not intentionally collect or transmit personal information to third-party services.
+
+7. Changes to This Privacy Policy
+
+If the game or its data practices change in the future, this Privacy Policy may be updated accordingly. Any updated version will include a new "Last Updated" date.
+
+8. Contact Us
+
+If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us at:
+
+Email: rajesh.sakh72@gmail.com
+
+9. Summary
+
+Flappy Bird Game is a simple Scratch-made game. We do not want or collect your personal data. Your privacy is important to us.
+
+By using the game, you acknowledge this Privacy Policy.
+
+Developer: Flappy Bird Game
+Made with: Scratch
+Contact: rajesh.sakh72@gmail.com
